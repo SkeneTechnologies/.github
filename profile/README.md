@@ -36,14 +36,13 @@ npm install @skene/skills-directory
 
 ### How it works
 
-1. Connect your repo (read-only)
-2. Skene analyzes your codebase and generates a growth manifest — tech stack, growth hubs, GTM gaps
-3. AI skills turn the manifest into automated workflows — onboarding flows, lifecycle triggers, churn prevention
-4. Ship growth like you ship code: in your editor, with your tools
+1. Skene analyzes your codebase and generates a growth manifest — tech stack, growth hubs, GTM gaps
+2. AI skills turn the manifest into automated workflows — onboarding flows, lifecycle triggers, churn prevention
+3. Ship growth like you ship code: in your editor, with your tools
 
 ### Links
 
-- [Documentation](https://www.skene.ai/resources/docs)
+- [Documentation](https://www.skene.ai/resources/docs/skene-growth)
 - [PLG Playbooks](https://www.skene.ai/resources/playbooks)
 - [Community](https://www.skene.ai/community)
 - [Blog](https://www.skene.ai/blog)
