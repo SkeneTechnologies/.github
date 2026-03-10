@@ -1,12 +1,22 @@
-# Skene
+<div align="center">
+  <a href="https://www.skene.ai">
+    <img alt="Skene Banner" src="https://raw.githubusercontent.com/SkeneTechnologies/.github/main/profile/banner_git.png" width="100%">
+  </a>
+</div>
 
-**Code-first product-led growth infrastructure.**
+<div align="center">
+  <h3>Code-first product-led growth infrastructure.</h3>
+</div>
+
+<div>
+  <p align="center">
+    <a href="https://www.skene.ai"><img src="https://img.shields.io/badge/Website-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white&logoSize=auto" /></a>
+    <a href="https://www.linkedin.com/company/skeneai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" /></a>
+    <a href="https://www.reddit.com/r/plgbuilders/"><img src="https://img.shields.io/badge/r%2Fplgbuilders-D84315?style=for-the-badge&logo=reddit&logoColor=white&logoSize=auto" /></a>
+  </p>
+</div>
 
 Skene derives product signals directly from your codebase to automate onboarding, activation, and lifecycle workflows. Growth as code — owned, versioned, and promptable alongside your product.
-
-→ [skene.ai](https://www.skene.ai)
-
----
 
 ### Get started
 
