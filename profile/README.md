@@ -20,10 +20,11 @@ Skene derives product signals directly from your codebase to automate onboarding
 
 ### Get started
 
-**Analyze your codebase for growth opportunities:**
+**Analyze your codebase for product-led growth:**
 
 ```bash
-uvx skene analyze .
+curl -fsSL https://raw.githubusercontent.com/SkeneTechnologies/skene/main/tui/install.sh | bash
+skene
 ```
 
 **Install 700+ AI skills for Claude and Cursor:**
@@ -38,7 +39,7 @@ npm install @skene/skills-directory
 
 | Repo | What it does |
 |---|---|
-| [skene](https://github.com/SkeneTechnologies/skene) | CLI toolkit — scans your codebase, detects tech stacks, finds growth hubs, identifies GTM gaps. Published on [PyPI](https://pypi.org/project/skene/). |
+| [skene](https://github.com/SkeneTechnologies/skene) | Scans your codebase, detects tech stacks, finds growth hubs, identifies GTM gaps. CLI toolkit published on [PyPI](https://pypi.org/project/skene/). |
 | [skene-cookbook](https://github.com/SkeneTechnologies/skene-cookbook) | 700+ composable AI skills for sales, marketing, PLG, finance, and DevEx. One install for Claude + Cursor. |
 | [plg-skills](https://github.com/SkeneTechnologies/plg-skills) | PLG strategy skills — readiness diagnostics, motion design, hybrid model planning. Available on [Playbooks](https://playbooks.com/skills/skenetechnologies/plg-skills/plg-strategy). |
 
@@ -52,7 +53,7 @@ npm install @skene/skills-directory
 
 ### Links
 
-- [Documentation](https://www.skene.ai/resources/docs/skene)
+- [Skene CLI Documentation](https://www.skene.ai/resources/docs/skene)
 - [PLG Playbooks](https://www.skene.ai/resources/playbooks)
 - [Community](https://www.skene.ai/community)
 - [Blog](https://www.skene.ai/blog)
