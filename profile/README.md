@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3>Code-first product-led growth infrastructure.</h3>
+  <h3>Code-first product-led growth infrastructure</h3>
 </div>
 
 <div>
