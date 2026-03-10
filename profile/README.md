@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.skene.ai">
-    <img alt="Skene Banner" src="https://raw.githubusercontent.com/SkeneTechnologies/.github/main/profile/banner_git.png" width="100%">
+    <img alt="Skene Banner" src="https://raw.githubusercontent.com/SkeneTechnologies/.github/release-visuals/profile/banner_git.png" width="100%">
   </a>
 </div>
 
